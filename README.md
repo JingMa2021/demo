@@ -32,8 +32,10 @@
 ## Publications
 
 Yu Zhang<sup>1</sup>, ***Jing Ma<sup>1</sup>***, Hai Li<sup>1</sup>, Jiawei Lv, Renyue Wei, Yimei Cong, Zhonghua Liu\*(2016) bFGF signaling-mediated reprogramming of porcine primordial germ cells. _Cell Tissue Res_ 364:429-41.
+[View Details](https://link.springer.com/article/10.1007%2Fs00441-015-2326-1)
 
 Zhenhai Du, Hui Zheng, Bo Huang, Rui Ma, Jingyi Wu, Xianglin Zhang, Jing He, Yunlong Xiang, Qiujun Wang, Yuanyuan Li, ***Jing Ma***, Xu Zhang, Ke Zhang, Yang Wang, Michael Q Zhang, Juntao Gao, Jesse R Dixon, Xiaowo Wang, Jianyang Zeng, Wei Xie\* (2017)  Allelic reprogramming of 3D chromatin architecture during early mammalian development._Nature_ 547:232-235
+[View Details](https://www.nature.com/articles/nature23263)
 
 ## Music
 
