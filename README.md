@@ -22,6 +22,9 @@
 
 ## Pictures
 
+![picture][1]
+
+[1]:./markdowncheatshett.png
 
 
 
