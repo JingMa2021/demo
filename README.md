@@ -2,14 +2,13 @@
 
 ## Introduction
 
-### My name is Jing
-### I am 33. 
+### My name is Ma Jing
 ### I am a Ph.D. student.
 ### And I am also a mother.
 #### I love my daughter.
 #### My daughter is my heart.
-#### My familiy give a lot of support for my Ph.D. career.
-#### My husband pay more attention to our children and parents.
+#### My family give a lot of support for my Ph.D. career.
+#### My husband pays more attention to our children and parents.
 
 ## My zone
 
@@ -24,13 +23,19 @@
 
 ![picture][1]
 
-[1]:./markdowncheatshett.png
+[1]:./markdowncheatsheet.png
+("/Users/lx/Documents/GitHub/demo/markdowncheatsheet.png")
 
 
 
 
-## Message Board
+## Publications
 
+Yu Zhang<sup>1</sup>, ***Jing Ma<sup>1</sup>***, Hai Li<sup>1</sup>, Jiawei Lv, Renyue Wei, Yimei Cong, Zhonghua Liu\*(2016) bFGF signaling-mediated reprogramming of porcine primordial germ cells. _Cell Tissue Res_ 364:429-41.
 
+Zhenhai Du, Hui Zheng, Bo Huang, Rui Ma, Jingyi Wu, Xianglin Zhang, Jing He, Yunlong Xiang, Qiujun Wang, Yuanyuan Li, ***Jing Ma***, Xu Zhang, Ke Zhang, Yang Wang, Michael Q Zhang, Juntao Gao, Jesse R Dixon, Xiaowo Wang, Jianyang Zeng, Wei Xie\* (2017)  Allelic reprogramming of 3D chromatin architecture during early mammalian development._Nature_ 547:232-235
 
 ## Music
+
+这是一个链接
+<http://www.kuwo.cn>
